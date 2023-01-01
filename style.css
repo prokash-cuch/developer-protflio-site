@@ -16,12 +16,12 @@ section {
 
 .half-weith {
     width: 50%;
-    padding-left: 10%;
+    padding-left: 6%;
 }
 
 .pragrachp {
     text-align: justify;
-    font-size: 20px;
+    font-size: 17px;
 }
 
 .link-button {
@@ -36,5 +36,5 @@ section {
 }
 
 .img-weith {
-    width: 80%;
+    width: 90%;
 }
