@@ -10,6 +10,9 @@ body {
  h1 {
     font-size: 50px;
 }
+ h2 {
+    font-size: 40px;
+}
 
 .peter-parker {
     color: orange;
@@ -50,4 +53,26 @@ body {
     background-position:right;
     padding-left: 6%;
     margin-top:5%;
+}
+.developer-stack{
+    margin-top: 6%;
+    padding-left:20px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+
+}
+.box-area{
+  width:40%;
+  margin-bottom:10%;
+  margin-left:3%;
+  margin-right:4%;
+  padding-left:20px;
+  padding: 2%;
+  box-shadow: 10px 10px 40px silver;
+  border-radius:10px;
+  border-left: solid 8px rgba(107, 7, 174, 0.318);
+}
+.center-footer{
+    text-align: center;
+    color: rgba(169, 163, 163, 0.918);
 }
